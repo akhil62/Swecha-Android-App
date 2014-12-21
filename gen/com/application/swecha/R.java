@@ -11,7 +11,7 @@ public final class R {
     public static final class array {
         /**  Nav Drawer List Item Icons 
  Keep them in order as the titles are in 
- <item>@drawable/ic_contactus</item> 
+ <item>@drawable/ic_aboutus</item>
          */
         public static final int nav_drawer_icons=0x7f070001;
         /**  Nav Drawer Menu Items 
@@ -77,15 +77,16 @@ public final class R {
         public static final int activity_main=0x7f030000;
         public static final int activity_splash=0x7f030001;
         public static final int drawer_list_item=0x7f030002;
-        public static final int fragment_agenda=0x7f030003;
-        public static final int fragment_events=0x7f030004;
-        public static final int fragment_home=0x7f030005;
-        public static final int fragment_news=0x7f030006;
-        public static final int fragment_photos=0x7f030007;
-        public static final int fragment_projects=0x7f030008;
-        public static final int fragment_register=0x7f030009;
-        public static final int fragment_speaker=0x7f03000a;
-        public static final int fragment_techdays=0x7f03000b;
+        public static final int fragment_aboutus=0x7f030003;
+        public static final int fragment_agenda=0x7f030004;
+        public static final int fragment_events=0x7f030005;
+        public static final int fragment_home=0x7f030006;
+        public static final int fragment_news=0x7f030007;
+        public static final int fragment_photos=0x7f030008;
+        public static final int fragment_projects=0x7f030009;
+        public static final int fragment_register=0x7f03000a;
+        public static final int fragment_speaker=0x7f03000b;
+        public static final int fragment_techdays=0x7f03000c;
     }
     public static final class menu {
         public static final int main=0x7f090000;
